@@ -1,9 +1,7 @@
 {
-  "Post": {
+  "Result": {
     "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
+    "thumbnail": "string",
+    "ingredients": "string"
+  }
 }
