@@ -22,7 +22,8 @@
 // I need to get the user information from the input box
 // I need to use $.get to make an AJAX request to the endpoint with the user search info, e.g. "http://www.recipepuppy.com/api/?q=[USER INPUT PLACEHOLDER]"
 // I need to use jQuery to recreate the .result-card html and all of it's nested elements
-// I need to go through the data send back from the AJAX request and create a result card for each recipe
+// I need to go through the data sent from the AJAX request and create a result card for each recipe
+//   (For images use this URL: "https://picsum.photos/200/300" )
 // I need to add each result card to the #results element.
 
 $.get('https://cors-anywhere.herokuapp.com/http://www.recipepuppy.com/api/?q=DINNER', (data) => {
