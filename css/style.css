@@ -1,5 +1,5 @@
 body {
-  background-image: url(../images/background.jpeg);
+  background-image: url(../images/collage.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -10,8 +10,8 @@ body {
 #main {
   width: 800px;
   font-family: "Arima Madurai", cursive;
-  background-color: forestgreen;
-  opacity: 80%;
+  /* background-color: forestgreen; */
+  opacity: 85%;
   margin: auto;
   border-radius: 20px;
   text-align: center;
@@ -21,7 +21,7 @@ body {
 
 #results {
   width: 700px;
-  background-color: tomato;
+  /* background-color: black; */
   margin: auto;
   margin-top: 30px;
   border-radius: 20px;
@@ -30,10 +30,16 @@ body {
 
 .result-card {
   width: 600px;
-  background-color: whitesmoke;
-  color: black;
+  background-color: black;
+  color: white;
   border-radius: 20px;
   padding: 20px;
   margin: 10px;
   display: inline-block;
 }
+
+a {
+  cursor: pointer;
+  color: white;
+}
+
