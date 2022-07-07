@@ -1,6 +1,6 @@
 # For The Love of Film
 
-![](images/ajax-tv-show-finder.png)
+![](media/Frontend Project Video.mp4)
 
 ### Resources
 
