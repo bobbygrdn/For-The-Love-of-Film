@@ -1,4 +1,4 @@
-# AJAX TV Show Finder
+# For The Love of Film
 
 **In this exercise you will be writing the neccessary code to allow users to search for a TV show from this Web API [TV Maze](https://www.tvmaze.com/api#show-search)**
 
