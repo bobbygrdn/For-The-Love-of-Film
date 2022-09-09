@@ -44,7 +44,9 @@ a {
 }
 
 #header {
-  color:white;
-  font-size: xx-large;
+  color: White;
+  font-size: 40px;
   margin: auto;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
 }
