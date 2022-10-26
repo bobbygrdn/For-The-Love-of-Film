@@ -13,7 +13,7 @@ Simple design that takes in user input and searches the TV Maze API for shows re
 
 ## Tech Stack
 
-**Client:** HTML5, CSS, JavaScript
+**Client:** HTML5, CSS, JavaScript, jQuery
 
 **Server:** AJAX, Node.js
 
