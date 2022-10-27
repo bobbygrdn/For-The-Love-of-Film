@@ -1,5 +1,5 @@
 body {
-  background-image: url(../media/collage.jpg);
+  background-image: url('https://user-images.githubusercontent.com/96712943/198346788-64c71ee7-6cb9-4bc4-9790-dcbf447c3eb7.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -63,5 +63,3 @@ a {
   text-decoration: underline;
   cursor: pointer;
 }
-
-
