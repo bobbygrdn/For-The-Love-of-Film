@@ -39,6 +39,11 @@ Go to the project directory
   cd for-the-love-of-film
 ```
 
+Install Dependencies
+```
+  npm install
+```
+
 Start the application
 ```bash
   npm run start
