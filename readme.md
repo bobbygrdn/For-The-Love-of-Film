@@ -27,7 +27,7 @@ https://bobbygrdn.github.io/For-The-Love-of-Film/
 Clone the project
 
 ```bash
-  git clone https://github.com/Team-Cache-Out/tech-port
+  git clone https://github.com/bobbygrdn/For-The-Love-of-Film.git
 ```
 
 Go to the project directory
