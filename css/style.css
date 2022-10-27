@@ -50,3 +50,18 @@ a {
   -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: black;
 }
+
+#submit {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  border: 2px solid black;
+  width: 90px;
+  height: 30px;
+}
+
+#submit:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+
