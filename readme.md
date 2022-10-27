@@ -8,6 +8,9 @@ Simple design that takes in user input and searches the TV Maze API for related 
 
 ![App Screenshot](https://user-images.githubusercontent.com/96712943/192338743-fa446254-f482-4b6f-9651-38efa7be5cf1.jpg)
 
+## Demo
+
+![Demo Video](https://user-images.githubusercontent.com/96712943/198344285-321b0011-5f3d-46a1-818a-1e1c2bbfcabf.mp4)
 
 ## Tech Stack
 
@@ -33,28 +36,10 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd techport
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Build the database
-```bash
-  psql postgres
-  \i db/migration.sql
-```
-
-Start the server
-
-```bash
-  npm node server
+  cd for-the-love-of-film
 ```
 
 Start the application
 ```bash
-  npm startdev
+  
 ```
