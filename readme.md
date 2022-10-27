@@ -18,3 +18,43 @@ Simple design that takes in user input and searches the TV Maze API for related 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
+
+## URL
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Team-Cache-Out/tech-port
+```
+
+Go to the project directory
+
+```bash
+  cd techport
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Build the database
+```bash
+  psql postgres
+  \i db/migration.sql
+```
+
+Start the server
+
+```bash
+  npm node server
+```
+
+Start the application
+```bash
+  npm startdev
+```
