@@ -41,5 +41,11 @@ Go to the project directory
 
 Start the application
 ```bash
-  
+  npm run start
+```
+
+Open the project in the browser
+```
+  localhost:4000
+  // This port might be different depending on your environemnt
 ```
