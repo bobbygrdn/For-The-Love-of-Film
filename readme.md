@@ -1,27 +1,19 @@
-# For The Love of Film
 
-![](media/Frontend Project Video.mp4)
+# For the Love of Film
 
-### Resources
+A Front-End app that helps locate new and interesting movies and T.V. shows to watch.
 
-- [$.get](https://api.jquery.com/jQuery.get/)
+Simple design that takes in user input and searches the TV Maze API for shows related to the input.
 
-- [Template Literals for String Substitution](https://developers.google.com/web/updates/2015/01/ES6-Template-Strings)
 
-- [TV Maze API](https://www.tvmaze.com/api#show-search)
+## Screenshots
 
-- [Selecting Elements with jQuery](https://api.jquery.com/jQuery/#jQuery1)
+![1657595293241](https://user-images.githubusercontent.com/96712943/192338743-fa446254-f482-4b6f-9651-38efa7be5cf1.jpg)
 
-- [Creating New Elements with jQuery](https://api.jquery.com/jQuery/#jQuery2)
 
-- [Adding Click Events with jQuery](https://api.jquery.com/click/)
+## Tech Stack
 
-- [$.append](https://api.jquery.com/append/)
+**Client:** HTML5, CSS, JavaScript
 
----
+**Server:** AJAX, Node.js
 
----
-
-### Font
-
-- The font used in this app is from [google fonts](https://fonts.google.com/)
