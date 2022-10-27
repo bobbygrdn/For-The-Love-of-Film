@@ -10,7 +10,7 @@ Simple design that takes in user input and searches the TV Maze API for related 
 
 ## Demo
 
-![Demo Video](https://user-images.githubusercontent.com/96712943/198344285-321b0011-5f3d-46a1-818a-1e1c2bbfcabf.mp4)
+[Demo Video](https://user-images.githubusercontent.com/96712943/198344285-321b0011-5f3d-46a1-818a-1e1c2bbfcabf.mp4)
 
 ## Tech Stack
 
