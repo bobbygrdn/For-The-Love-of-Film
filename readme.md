@@ -6,7 +6,7 @@ Simple design that takes in user input and searches the TV Maze API for related 
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/96712943/192338743-fa446254-f482-4b6f-9651-38efa7be5cf1.jpg)
+![App Screenshot](https://github.com/bobbygrdn/For-The-Love-of-Film/assets/96712943/5548cf4e-fe7b-4bd7-9495-93c9184549b5)
 
 ## Demo
 
